@@ -1,1 +1,2 @@
-# JUNU-Project-Cheatsheets
+# JNUN-Project-Cheatsheets
+提案想法待处理看板，用于项目的备忘录和草稿，仅支持 Markdown 格式，可以参考以往提案并根据联合现在章程提案中的规范进行 PR，待格式正确将会合并到整个看板项目备忘录中。
